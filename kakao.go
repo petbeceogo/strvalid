@@ -1,4 +1,4 @@
-package validator
+package strvalid
 
 import "github.com/asaskevich/govalidator"
 
